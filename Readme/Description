@@ -1,0 +1,5 @@
+1. created csv files for test and train dataset by sorting the labels using
+two actionassociated.py and testactionassoiated.py, and adding headers to the csv filed using readcsv.py
+2. C/RNN architecture using Densenet169
+3. prediction accuracy= 15.06%
+4. the model outputs the percent of each action it associated with a random video selected from test file
